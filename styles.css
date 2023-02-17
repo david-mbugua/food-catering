@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 :root {
   --green: #37784e;
 }
@@ -37,7 +37,7 @@ div.shadow-text {
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Quicksand";
   overflow-x: hidden;
 }
 header > div {
@@ -297,4 +297,9 @@ footer button {
   font-size: 1.2rem;
   cursor: pointer;
   font-weight: bold;
+}
+
+.sign {
+  font-size: 12px;
+  margin-top: 10px;
 }
